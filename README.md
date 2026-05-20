@@ -7,6 +7,6 @@ Daily DSA practice using C++
 -Codeforces
 -GeeksofGeeks
 
-##Topics Covered
+## Topics Covered
 -Arrays
 
