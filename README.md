@@ -8,5 +8,8 @@ Daily DSA practice using C++
 - GeeksofGeeks
 
 ## Topics Covered
+- Basic maths
+- Recursion
+- Hashing
 - Arrays
 
