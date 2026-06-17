@@ -6,24 +6,25 @@ public:
     // Function to get all divisors
     vector<int> getDivisors(int N) {
         // Create a vector to store divisors
-        vector<int> res;
+        vector<int> ls;
 
         // Loop from 1 to square root of N
         for (int i = 1; i * i <= N; i++) {
             // Check if i divides N
             if (N % i == 0) {
                 // Add i to the result
-                res.push_back(i);
+                ls.push_back(i);
 
                 // If N / i is different from i, add N / i too
                 if (i != N / i) {
-                    res.push_back(N / i);
+                    ls.push_back(N / i);
                 }
             }
         }
-
+          // arrange the result is sorted order
+           sort(ls.begin(),ls.end());
         // Return the list of divisors
-        return res;
+        return ls;
     }
 };
 
