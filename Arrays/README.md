@@ -23,5 +23,3 @@ This folder contains Array problems solved in C++ for DSA and placement preparat
 ## Platforms
 - GeeksforGeeks
 - LeetCode
-- HackerRank
-- CodeForces
