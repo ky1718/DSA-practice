@@ -12,4 +12,7 @@ Daily DSA practice using C++
 - Recursion
 - Hashing
 - Arrays
-
+- Trees
+- graphs
+- advance maths
+- 
