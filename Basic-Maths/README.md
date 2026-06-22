@@ -2,7 +2,7 @@
  
  ## Topics
  
-- Count digits in number.
+- Count digits in number with two approch having differnt time complexities.
 - Reverse Digits of A Number
 - Check if a number is Palindrome or Not
 - Find GCD(Greatest common divisor) of two numbers
