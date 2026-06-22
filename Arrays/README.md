@@ -1,5 +1,4 @@
 # Arrays
-This file contains my dsa practice of arrays in C++.
 
 This folder contains Array problems solved in C++ for DSA and placement preparation.
 
