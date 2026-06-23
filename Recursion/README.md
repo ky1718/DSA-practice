@@ -14,8 +14,8 @@ This repository contains my recursion practice problems in C++.
 ## Problems Solved
 
 ### Basics
-- [ ] Factorial
-- [ ] Fibonacci
+- [x] Factorial
+- [x] Fibonacci
 - [ ] Print Numbers from 1 to N
 - [ ] Print Numbers from N to 1
 - [ ] Sum of First N Numbers
