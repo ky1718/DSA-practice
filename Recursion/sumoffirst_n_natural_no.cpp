@@ -1,0 +1,37 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    // Function to find sum of first N natural numbers using loop
+    int sumOfNaturalNumbers(int N) {
+        // Initialize sum to 0
+        int sum = 0;
+
+        // Loop from 1 to N
+        for (int i = 1; i <= N; i++) {
+            // Add current number to sum
+            sum += i;
+        }
+
+        // Return the computed sum
+        return sum;
+    }
+};
+
+// Driver code
+int main() {
+    // Create object of Solution class
+    Solution obj;
+
+    // Input value for N
+    int N;
+    cin >> N;
+
+    // Call the function and store the result
+    int result = obj.sumOfNaturalNumbers(N);
+
+    // Print the result
+    cout << result << endl;
+    return 0;
+}
